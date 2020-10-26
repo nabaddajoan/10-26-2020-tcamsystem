@@ -1,0 +1,24 @@
+
+FOR ADMIN'S LOGIN
+
+  username = admin
+  password = joan
+
+For user's Login, Go to database under users and Add or View users's List
+There you'll find user email and password. Copy and Paste it in user Login to proceed!
+
+DON'T FORGET TO CREATE A DATABASE NAMING "tcamsystem" AND IMPORT THE SQL FILE.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>THE DATABASE FILE IS INSIDE "database" FOLDER!!
+
+>>> IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT ME ***** 0777802271/0703469646<<<  
+
+
+>>> SEND A TEXT MESSAGE TO COMMENT IF YOU LOVED MY PROJECT <<<
+
+
+
+
+
+#THANK YOU FOR DOWNLOADING
